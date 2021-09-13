@@ -127,9 +127,6 @@ bool  AntiDebug() // anti debug
         // -- Other ----------------------------------------------------------
         // -------------------------------------------------------------------
         adbg_CrashOllyDbg();
-        string site = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
-        system(std::string("start " + site).c_str());
-        
     }
 }
 
